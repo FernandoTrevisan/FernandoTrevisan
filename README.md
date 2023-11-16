@@ -38,6 +38,9 @@
 
   <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
+  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+
+
 
 
 <br/>
