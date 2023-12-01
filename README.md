@@ -36,17 +36,6 @@
 
   <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 
- ### Redes Sociais:
-    
-  <a href="https://www.instagram.com/dogs_br_dogs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-  <a href="https://www.linkedin.com/in/fernando-marangoni-da-silva-trevisan-4472a429b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
- <img align="center" href="https://gist.github.com/FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<!--- gist https://gist.github.com/FernandoTrevisan --->
-
-
 
 
 
@@ -60,10 +49,6 @@
 
   <img  src="https://github.com/FernandoTrevisan/Banco_LojaDeRoupas/assets/105383301/1650b420-8da3-4d22-b7f3-c05d6ff2f6db" width="50%">
 </div>
-
-
-<!--Panda-https://pa1.aminoapps.com/6467/434523dd5371dab33fa62e00b5bb46defe306f0c_00.gif-->
-
 
 </a>
 
