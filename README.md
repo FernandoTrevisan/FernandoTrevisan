@@ -19,8 +19,11 @@
     
   <a href="https://www.instagram.com/dogs_br_dogs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-  <a href="https://www.linkedin.com/in/(.....)/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+  <a href="https://www.linkedin.com/in/fernando-marangoni-da-silva-trevisan-4472a429b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+<!--- gist https://gist.github.com/FernandoTrevisan --->
+
 </div>
 
 <div style="display: inline_block"><br>
