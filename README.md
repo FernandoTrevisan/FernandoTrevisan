@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/fernando-marangoni-da-silva-trevisan-4472a429b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
- <img align="center" alt="https://gist.github.com/FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+ <img align="center" href="https://gist.github.com/FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <!--- gist https://gist.github.com/FernandoTrevisan --->
 
 
