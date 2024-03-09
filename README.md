@@ -10,41 +10,8 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTrevisan&layout=compact&bg_color=30,0069CC,0088D9,00A4CF,00BEB3,00D58C&title_color=F2F068&text_color=FFFFFF&hide_border=true&langs_count=10"/>
 
-  
-</div>
-<br>
-
-<div style="display: inline_block"><br>
-
-  ### Linguagens Aprendidas:
-
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="FernandoTrevisan" height="85" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- 
- ### Ferramentas Utilizadas:
- 
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-  <img align="center" alt="FernandoTrevisan" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-
-
-
-
-</div>
-
-<br/>
-
-<br/>
-
+</br>
+</br>
 <div align="center" >
 
   <img  src="https://github.com/FernandoTrevisan/Banco_LojaDeRoupas/assets/105383301/1650b420-8da3-4d22-b7f3-c05d6ff2f6db" width="50%">
