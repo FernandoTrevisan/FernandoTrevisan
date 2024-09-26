@@ -14,7 +14,7 @@
 </br>
 <div align="center" >
 
-  <img  src="https://github.com/FernandoTrevisan/Banco_LojaDeRoupas/assets/105383301/1650b420-8da3-4d22-b7f3-c05d6ff2f6db" width="50%">
+  <img  src="https://miro.medium.com/max/960/1*PRsRoyIaGU0Zm47shBNkMA.gif" width="50%">
 </div>
 
 </a>
