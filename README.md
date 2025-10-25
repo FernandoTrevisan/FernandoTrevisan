@@ -45,7 +45,7 @@
 | 🐍 **Linguagens**            | `Python`, `PHP`, `JavaScript`                           |
 | 🔧 **Ferramentas de QA**     | `Cypress`, `Selenium`, `JMeter`, `Postman`, `Jira`      |
 | 🧰 **Ambientes**             | `Docker`, `Eclipse`, `VsCode`, `GitHub`                           |
-| ⚙️ **Metodologias Ágeis**    | **Scrum**, **Kanban**, **XP**                           |
+| ⚙️ **Metodologias Ágeis**    | **`Scrum`**, **`Kanban`**, **`XP`**                           |
 
 ---
 
